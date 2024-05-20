@@ -1,0 +1,2 @@
+moviepy==1.0.3
+ultralytics==8.2.16
